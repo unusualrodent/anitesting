@@ -1,13 +1,3 @@
-On Disconnected From Server: Successful
-Press <?> or <Back> for keybinds. Press <Enter> then /help for chat commands.
-WeirdMouse is color White.
-[color=DC143C]Villainous[/color] loading...
-Loading complete.
-Steam P2P session failed with Butterking.
-Steam P2P session failed with Larkser.
-Load image failed unsupported format: UNKNOWN
-    Supported formats: .jpg, .png, .webm, .mp4, .m4v, .mov, .rawt, .unity3d
-    at [​http://cloud-3.steamusercontent.com/ugc/1888722449331603376/778A0FD3F5A3C4AD16B82A818DE5412CFFD8D05E/]
 EVERYTHING = {}
 EVERYTHING['Anime'] = {}
 EVERYTHING['Anime']['Ainz'] = {image='http://cloud-3.steamusercontent.com/ugc/2183743008154816020/4E6E013AD00897F1F1245E78E533C4A97DB31F84/', tooltip='Ainz [Overlord]', data={
